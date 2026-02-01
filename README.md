@@ -4,4 +4,4 @@ I'm a **backend-focused developer**, currently learning **Java** and using perso
 
 I have experience with **HTML, CSS, JavaScript, and React**, and I enjoy understanding how systems work end to end.
 
-**Curious, consistent, and always learning.**
+This profile is a place for learning, experimenting, and growing as a developer.
